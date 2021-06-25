@@ -10,9 +10,9 @@ https://video-edit-mania-001.web.app
 ### Live Site Link:
 https://video-edit-mania-001.web.app
 ### Client Repo Link:
-https://github.com/Porgramming-Hero-web-course/complete-website-client-asif-ae
+
 ### Server Repo Link:
-https://github.com/Porgramming-Hero-web-course/complete-website-server-asif-ae
+
 
 ### Extra Feature(s):
 1. Loading warning during file upload.
