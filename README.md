@@ -10,8 +10,9 @@ https://video-edit-mania-001.web.app
 ### Live Site Link:
 https://video-edit-mania-001.web.app
 ### Client Repo Link:
-
+https://github.com/iqbalhossain15792303/capture--movement-client
 ### Server Repo Link:
+https://github.com/iqbalhossain15792303/capture-movement-server
 
 
 ### Extra Feature(s):
